@@ -10,3 +10,4 @@ _beforeTokenTransfer
 
 _mintMinerReward
 
+TOKEN DEPLOYED: 0x4337A26ba0558A4fD7F6305d67a0cE5Ec201Ea55
